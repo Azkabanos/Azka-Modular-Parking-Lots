@@ -1,0 +1,7 @@
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\obj\Debug\AzkaModularParkingLots.csproj.CoreCompileInputs.cache
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\bin\Debug\AzkaModularParkingLots.dll
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\bin\Debug\AzkaModularParkingLots.pdb
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\bin\Debug\CitiesHarmony.API.dll
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\obj\Debug\AzkaModularParkingLots.csproj.CopyComplete
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\obj\Debug\AzkaModularParkingLots.dll
+C:\Users\Azkabanos\source\repos\AzkaModularParkingLots\obj\Debug\AzkaModularParkingLots.pdb
